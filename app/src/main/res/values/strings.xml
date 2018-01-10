@@ -1,0 +1,263 @@
+<resources>
+    <string name="app_name">Charming Cairo</string>
+    <!--  The names of Categories  -->
+    <string name="category_pharaonic">Pharaonic Places</string>
+    <string name="category_historical">Historical Places</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_Hotels">Hotels</string>
+<!-- Pharaonic Attractions in Cairo -->
+    <!--  Giza Pyramids details -->
+    <string name="pyramids_title">The Three Pyramids of Giza</string>
+    <string name="pyramids_description">They are a defining symbol of Egypt and
+        the last of the ancient Seven Wonders of the World.
+   Their names are: Khufu, Khafre, and Menkaure—correspond to the kings for whom they were built. </string>
+    <string name="pyramids_site_work_hours">Open from 8.00 am to 4.00 pm everyday</string>
+    <!--  Solar Boats Museum details -->
+    <string name="Solar_Boat_title">The Solar Boats Museum</string>
+    <string name="Solar_Boat_description">Also named Khufu\'s boat. It was constructed next to the Great Pyramid of Khufu.
+        The Solar boats of ancient Egyptians consist of large ships that were made out of cedar wood.
+        Probably these boats were manufactured to be used in the funerary rituals of the King and
+        maybe some of his royal family members. </string>
+    <string name="solar_boats_museum_work_hours">Open from 8.30 am to 4.00 pm everyday</string>
+    <!--  Sphinx details -->
+    <string name="Sphinx_title">Great Sphinx of Giza</string>
+    <string name="Sphinx_description"> (Arabic: Abū al-Haul, literally: Father of Dread),
+        is a limestone statue of a reclining sphinx,
+        a mythical creature with the body of a lion and the head of a human.
+        it stands on the Giza Plateau on the west bank of the Nile in Giza, Egypt, near Khafre Pyramid.</string>
+    <string name="Sphinx_work_hours">Open from 8.00 am to 4.00 pm everyday</string>
+
+    <!--  Sound and light shows details -->
+    <string name="s_l_shows_title">Giza Pyramids Sound and Light Shows</string>
+    <string name="s_l_shows_description"> It is a magnificent show that brings creatively to life the rule of ancient Egyptians.
+        For an hour, you enjoy the sound and light show near the pyramids and the Sphinx.
+        The history is re-told by the Sphinx, telling you the most ancient secrets of the world.</string>
+    <string name="s_l_shows_work_hours">Open from 7.00 pm to 8.30 pm everyday</string>
+    <string name="s_l_shows_contact">33857320(+202)</string>
+    <!-- Pyramid of Djoser details -->
+    <string name="Pyramid_of_Djoser_title">Pyramid of Djoser</string>
+    <string name="Pyramid_of_Djoser_description">The Pyramid of Djoser or Zoser, or step pyramid is an archeological remain in the Saqqara necropolis,
+        Egypt, northwest of the city of Memphis. This first Egyptian pyramid consisted of six mastabas (of decreasing size)
+        built atop one another. It is seven levels high and four-sided.</string>
+    <string name="Pyramid_of_Djoser_work_hours">Open from 8.00 am to 5 pm everyday</string>
+    <!-- Pharaonic village details -->
+    <string name="Pharaonic_village_title">The Pharaonic village</string>
+    <string name="Pharaonic_village_description">The Pharaonic Village is Egypt\'s historic park.
+        It\'s a unique place where Egypt\'s entire history is explained in 2 to 3 hours including
+        our ancient history as well as our modern history. In this village you are transported by floating amphitheaters, and a hundred actors and
+        actresses demonstrate scenes from ancient Egypt (Papyrus making, sculpting, home building….etc.).</string>
+    <string name="Pharaonic_village_work_hours">Open from 9.00 am to 8.30 pm everyday</string>
+    <string name="Pharaonic_village_contact">35722533(+202)</string>
+    <!-- Egyptian Museum details -->
+    <string name="Egyptian_Museum_title">The Egyptian Museum</string>
+    <string name="Egyptian_Museum_description">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum,
+        in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities.
+        It has 120,000 items. It houses the world\’s largest collection of Pharaonic antiquities. </string>
+    <string name="Egyptian_Museum_work_hours">Open from 9.00 am to 7.00 pm everyday</string>
+    <string name="Egyptian_Museum_contact">25794596(+202)</string>
+    <!-- Papyrus Egypt Museum details -->
+    <string name="Papyrus_Egypt_Museum_title">The Papyrus Egypt Museum</string>
+    <string name="Papyrus_Egypt_Museum_description"> Discover in the Papyrus Museum around 300 fascinating objects from
+        the Department of Papyri as permanent exhibits. Papyrus in Arabic is pronounced Al-Bardy. </string>
+    <string name="Papyrus_Egypt_Museum_work_hours">Open from 8.00 am to 6.00 pm everyday</string>
+    <string name="Papyrus_Egypt_Museum_contact">33826935(+202)</string>
+
+<!-- Hotels in Cairo-->
+    <!-- Four Seasons Hotel Cairo details -->
+    <string name="Four_Seasons_Hotel_title">Four Seasons Hotel Cairo</string>
+    <string name="Four_Seasons_Hotel_description"> Four Seasons Hotel Cairo At Nile Plaza offers guests a convenient base when visiting Cairo.
+        It provides 5-star accommodation with air-conditioned rooms.
+        Providing views of Nile River, it is an ideal place to stay for those wanting to discover local attractions in Cairo.</string>
+    <string name="Hotel_work_hours">You can make reservations from their website.</string>
+    <string name="Four_Seasons_Hotel_contact">(+202) 2791-7000</string>
+    <!-- The Nile Ritz-Carlton Hotel details -->
+    <string name="Nile_Ritz_Carlton_Hotel_title">The Nile Ritz-Carlton Hotel Cairo</string>
+    <string name="Nile_Ritz_Carlton_Hotel_description"> Overlooking the Nile River, the hotel continues along the path of decadence with 5-star
+        amenities including an Olympic-sized pool, a rooftop lounge, spacious accommodations with river and museum views,
+        a relaxing spa and a tempting patisserie.</string>
+    <string name="Nile_Ritz_Carlton_Hotel_contact">(+202)25778899</string>
+    <!-- JW Marriott Hotel Cairo details -->
+    <string name="JW_Marriott_Hotel_Cairo_title">JW Marriott Hotel Cairo</string>
+    <string name="JW_Marriott_Hotel_Cairo_description">It offers luxury five-star accommodation, award-winning service,
+         a prime location in the city\'s Heliopolis district, luxurious marble bathrooms, complimentary Wi-Fi,
+        many on-site restaurants, soothing on-site spa and an exhilarating water park.</string>
+    <string name="JW_Marriott_Hotel_Cairo_contact">(+202)24115588</string>
+    <!-- Dusit Thani LakeView Cairo Hotel details -->
+    <string name="Dusit_Thani_LakeView_title">Dusit Thani LakeView Cairo Hotel</string>
+    <string name="Dusit_Thani_LakeView_description">It is an oasis of greenery and lakes in the heart of New Cairo.
+        Infused with traditional Thai design and offering genuine Thai hospitality, Dusit Thani brings a taste of Thailand
+        to the centre of Egypt.</string>
+    <string name="Dusit_Thani_LakeView_contact">(+202)2614 0000</string>
+    <!-- Sofitel Cairo hotel details -->
+    <string name="Sofitel_Cairo_title">Sofitel Cairo Nile El Gezirah Hotel</string>
+    <string name="Sofitel_Cairo_description"> A 5-star luxury hotel on the Nile.
+        Includes stunning ballroom perfect for weddings, and flexible meeting rooms, vibrant restaurants,
+        gaze at breathtaking Nile views. Drift in an infinity pool which seems to spill into the river.
+    A haven in the center of Cairo where you are made to feel at home.</string>
+    <string name="Sofitel_Cairo_contact">(+202)27373737</string>
+    <!-- Fairmont Nile City hotel details -->
+    <string name="Fairmont_Nile_City_title">Fairmont Nile City Hotel</string>
+    <string name="Fairmont_Nile_City_description">It offers sweeping panoramas of the Nile River,
+        and views of the Pyramids in the distance, rooftop poolside sky bar, and truly indulgent, full-service treatments at their
+        Willow Stream Spa, outdoor space dedicated for meetings and conventions, comprising of 10 meeting rooms including a ballroom. </string>
+    <string name="Fairmont_Nile_City_contact">(+202)24619494</string>
+    <!--  Kempinski Nile Hotel details -->
+    <string name="Kempinski_title"> Kempinski Nile Hotel</string>
+    <string name="Kempinski_description">The ultimate attention to detail, a charming greeting and a row of familiar
+        smiles welcoming you. Set in the heart of the city, in the bustling Garden City district and on the banks of the River Nile,
+        Kempinski Nile Hotel is a boutique property. It helps you make the most of your stay by offering the services you need,
+        the amenities you expect, and the extras you deserve.  </string>
+    <string name="Kempinski_contact">(+202)27980000</string>
+    <!--  MENA HOUSE Hotel details -->
+    <string name="MENA_HOUSE_title">MENA HOUSE Hotel </string>
+    <string name="MENA_HOUSE_description">Surrounded by 40 acres of verdant green gardens, this palatial hotel is located in
+        the shadows of the Great Pyramids of Giza in Cairo. The royal history of the hotel is reflected in luxurious interiors
+        that are embellished with exquisite antiques, handcrafted furniture, original work of arts and magnificent antiques that
+        are rarely found in luxury hotels. Mena House has played host to kings and emperors, Heads of State and celebrities. </string>
+    <string name="MENA_HOUSE_contact">(+202)33773222</string>
+    <!--  Sheraton Cairo Hotel details -->
+    <string name="Sheraton_title">Sheraton Cairo Hotel </string>
+    <string name="Sheraton_description">With its cosmopolitan modern adjoining towers, Sheraton Cairo Hotel and Casino stands as one of
+        Cairo\'s landmarks. The Hotel offers a wide range of dining outlets that suits all tastes with the warmth of the oriental
+        hospitality. It perfectly suits family vacation, leisure, business, weddings, meetings and seminars.  </string>
+    <string name="Sheraton_contact">(+202)33369700</string>
+
+<!-- National Parks in Cairo -->
+
+    <!--  International Park details -->
+    <string name="International_Park_title">International Park </string>
+    <string name="International_Park_description">This park has International in its name because some of its flowers, trees,
+        and animals originate from different countries around the world. It offers a train ride where visitors can explore its
+        different parts within 15 minutes. There is also a theatre inside the park as well as a mini zoo whose
+        museum contains some mummified bodies and skeletons of animals with a small board of information for each.</string>
+    <string name="International_Park_work_hours">Open from 8.00 am to 11.00 pm everyday</string>
+    <string name="International_Park_contact">(+202)23826579</string>
+    <!--  Al Horreya Garden details -->
+    <string name="Al_Horreya_Garden_title">Al Horreya Garden </string>
+    <string name="Al_Horreya_Garden_description">Al Horreya, means freedom in Arabic.
+        Al Horreya Garden is known for its unique eleven statues of very important
+        figures who had significant impact and positive change in their countries.
+     Its eleven statues are for some great people from Egypt, Mexico, Ecuador, Venezuela, and other Latin-American countries.</string>
+    <string name="Al_Horreya_Garden_work_hours">Open from 9.00 am to 7.00 pm everyday</string>
+    <!-- Aquarium Grotto Garden details -->
+    <string name="Aquarium_Grotto_Garden_title">Aquarium Grotto Garden </string>
+    <string name="Aquarium_Grotto_Garden_description"> Unique for its architectural beauty, the garden’s formations are made of clay
+        to look like fish gills. The Aquarium Grotto Garden has many underground grottoes that used to host various unique types of
+        fish from the Nile and other places. Although the number of fish has decreased and some of the grottoes lie empty,
+        the garden still hosts some rare fish that are worth watching.</string>
+    <string name="Aquarium_Grotto_Garden_work_hours">Open from 9.00 am to 4.30 pm everyday except Tuesday</string>
+    <string name="Aquarium_Grotto_Garden_contact">(+2)0109 159 3825</string>
+    <!-- Al-Andalus Garden details -->
+    <string name="Al_Andalus_Garden_title">Al-Andalus Garden </string>
+    <string name="Al_Andalus_Garden_description"> It has originally been designed to be part of the royal mansion of Khedive Ismail,
+        the Garden is unique for the Andalusian-architectural style.
+        This can be seen in the design of the entrance as well as the Andalusian-styled arches.
+    A walk through nature with a breathtaking Nile view.</string>
+    <string name="Al_Andalus_Garden_work_hours">Open from 8.00 am to 12.30 am everyday </string>
+    <string name="Al_Andalus_Garden_contact">(+2)0100 104 1521</string>
+    <!-- Japanese Garden details -->
+    <string name="Japanese_Garden_title">Japanese Garden </string>
+    <string name="Japanese_Garden_description">It was built to represent cultures of the East. It is most famous for its unique statues.
+        For example, more than 30 Buddha statues and three statues of elephants adorn the garden.
+        A lake there contains a statue of the three wise monkeys.
+        Along with the statues, the garden also has a promenade flanked by lanterns, a tall pagoda (a Buddhist temple). </string>
+    <string name="Japanese_Garden_work_hours">Open from 9.00 am to 9.00 pm everyday </string>
+    <string name="Japanese_Garden_contact">(+2)0127 041 8322</string>
+    <!-- Orman Garden details -->
+    <string name="Orman_Garden_title">Orman Garden </string>
+    <string name="Orman_Garden_description">Orman, Turkish for the forest. Brought from different parts of the world including Europe and China,
+        this garden used to host more than 150 types of flowers and over 500 kinds of rare plants.
+        This makes the garden a perfect host for its famous yearly spring festival which attracts visitors during March and April.
+        The garden also has a pond with a wooden bridge that stretches over it. </string>
+    <string name="Orman_Garden_work_hours">Open from 9.00 am to 4.00 pm everyday </string>
+    <string name="Orman_Garden_contact">(+2)0109 686 2279</string>
+    <!-- Family Park details -->
+    <string name="Family_Park_title">Family Park </string>
+    <string name="Family_Park_description">The Family Park is one of Cairo’s newest parks.
+        Activities inside the park can be categorized into two groups: educational and entertaining.
+        An educational center has buildings that look like Bibliotheca Alexandria, the Giza Zoo, and the Martial Museum.
+        There are also several theaters. In addition, the park displays various infotainment movies in its 3D cinema.
+        On the entertainment side, the park has its own mini zoo and safari plaza.</string>
+    <string name="Family_Park_work_hours">Open from 9.00 am to 10.00 pm everyday </string>
+    <string name="Family_Park_contact">(+2)0102 738 3885</string>
+    <!-- Al-Azhar Park details -->
+    <string name="Al_Azhar_Park_title">Al-Azhar Park </string>
+    <string name="Al_Azhar_Park_description">Al-Azhar Park is one of Cairo’s largest parks as it covers a space of 80 acres.
+     Its position over a hill gives its visitors a magnificent view of Cairo. The green park has several fountains and restaurants
+        where visitors can enjoy the natural beauty and the breathtaking views of Cairo.</string>
+    <string name="Al_Azhar_Park_work_hours">Open from 9.00 am to 10.00 pm everyday </string>
+    <string name="Al_Azhar_Park_contact">(+202)25103868</string>
+    <!-- Safari Park details -->
+    <string name="Safari_Park_title">Safari Park </string>
+    <string name="Safari_Park_description">This is a very suitable park for family outings.
+        It is the second largest park after Al-Azhar Park, which is designed in the country style.
+        It has a Romanian theatre, puppet show, artificial lake, as well as a number of restaurants and cafeterias. </string>
+    <string name="Safari_Park_work_hours">Open from 9.00 am to 11.00 pm everyday </string>
+
+    <!-- Historical Places in Cairo -->
+    <!-- Citadel of Salah Ed_Din details -->
+    <string name="citadel_of_salah_ed_din_title">Cairo Citadel of Salah Ed-Din </string>
+    <string name="citadel_of_salah_ed_din_description">Cairo Citadel is a medieval Islamic fortification in Cairo, Egypt.
+        The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city.
+        It is now a preserved historic site, with mosques and museums.  </string>
+    <string name="citadel_of_salah_ed_din_work_hours">Open from 9.00 am to 4.00 pm everyday </string>
+    <string name="citadel_of_salah_ed_din_contact">(+202)25121735</string>
+    <!-- The Great Mosque of Muhammad Ali Pasha details -->
+    <string name="Mosque_of_Muhammad_Ali_title">The Great Mosque of Muhammad Ali Pasha</string>
+    <string name="Mosque_of_Muhammad_Ali_description">The Great Mosque of Muhammad Ali Pasha or Alabaster Mosque is a mosque
+        situated in Cairo Citadel of Salah Ed-Din. Situated on the summit of the citadel, this Ottoman mosque,
+        the largest to be built in the first half of the 19th century, is, with its animated silhouette and twin minarets,
+        the most visible mosque in Cairo.  </string>
+    <!-- Muhammad Ali Palace and Museum details -->
+    <string name="muhammad_ali_palace_title">Muhammad Ali Palace and Museum </string>
+    <string name="muhammad_ali_palace_description">Also known as The Manial Palace and Museum, is a former Ottoman dynasty era palace
+        and grounds on Rhoda Island on the Nile. The palace and estate has been preserved as an Antiquities Council directed
+        historic house museum and estate, reflecting the settings and lifestyle of the late 19th- and early 20th-century Egyptian
+        royal prince and heir apparent. The residence compound, composed of five separate and distinctively styled buildings,
+        is surrounded by Persian gardens within an extensive English Landscape garden estate park, along a small branch of the Nile. </string>
+    <string name="muhammad_ali_palace_work_hours">Open from 9.00 am to 4.00 pm everyday </string>
+    <string name="muhammad_ali_palace_contact">(+202)23687495</string>
+    <!-- The palace of Baron Empain details -->
+    <string name="The_palace_of_Baron_title">The palace of Baron Empain </string>
+    <string name="The_palace_of_Baron_description">The Baron Empain Palace (Arabic: "Qasr el Baron"), is a distinctive and historic Indian-inspired mansion
+        in Heliopolis, a suburb northeast of central Cairo, Egypt. Designed by a French architect for the Baron Empain.
+        Its main tower - in which Empain had his rooms - is said to have been built on a revolving base to allow a 360-degree
+        view and constant sunlight. </string>
+    <string name="The_palace_of_Baron_work_hours">A visit needs a permission from the Ministry of Culture </string>
+    <string name="The_palace_of_Baron_contact">(+2)010 956 307 55</string>
+    <!-- Khan El-Khalili details -->
+    <string name="Khan_El_Khalili_title">Khan El-Khalili </string>
+    <string name="Khan_El_Khalili_description">Khan el-Khalili is a major souk (Arabic bazaar) in the Islamic district of Cairo.
+        The bazaar district is one of Cairo\'s main attractions for tourists and Egyptians alike.
+        Some portions of it still display the original Mamluk style architecture, which featured great archways
+        and vaulted ceilings. Shops typically sell souvenirs, antiques and jewellery. In addition to shops, there are several
+        coffeehouses, generally small and quite traditional, serving Arabic coffee.
+    </string>
+    <string name="Khan_El_Khalili_work_hours">Most shops are open from 10 am to 1 am everyday. </string>
+    <!-- Cairo Tower details -->
+    <string name="Cairo_tower_title">Cairo Tower </string>
+    <string name="Cairo_tower_description"> The Cairo Tower is a free-standing concrete tower located in Cairo, Egypt.
+ One of Cairo\'s well-known modern monuments. Its partially open lattice-work design is intended to evoke a pharaonic lotus plant,
+        an iconic symbol of Ancient Egypt. The tower is crowned by a circular observation deck and a rotating restaurant
+        with a view over greater Cairo. One rotation takes approximately 70 minutes. </string>
+    <string name="Cairo_tower_work_hours"> Open from 9.00 am to 1.00 am everyday</string>
+    <string name="Cairo_tower_contact">(202)27365112</string>
+    <!-- Ibn_Tulun Mosque details -->
+    <string name="Ibn_Tulun_Mosque_title">The Mosque of Ibn Tulun </string>
+    <string name="Ibn_Tulun_Mosque_description">(In Arabic: Masjid Ibn Tulun) It is the oldest mosque in the city
+        surviving in its original form, and is the largest mosque in Cairo in terms of land area.
+        The mosque was commissioned by Ahmad ibn Tulun, the Turkic Abbassid governor of Egypt from
+        868–884 whose rule was characterized by de facto independence.
+        The minaret of the Mosque is a famous Cairo landmark, though completely unique in its design.
+    </string>
+    <string name="Ibn_Tulun_Mosque_work_hours"> Open from 9.00 am to 7.00 pm everyday</string>
+    <!-- Mosque of Sultan Hassan details -->
+    <string name="sultan_Hassan_Mosque_title">The Mosque of Sultan Hassan </string>
+    <string name="sultan_Hassan_Mosque_description">The Mosque-School of Sultan Hassan is a massive mosque and school located in the Old city of Cairo,
+        it was built during the Mamluk Islamic era in Egypt. At the time of construction the mosque was considered
+        remarkable for its fantastic size and innovative architectural components. Commissioned by Sultan an-Nasir Hassan.
+        The Mosque of Sultan Hassan is one of the largest mosques in the world, It is known for its work of art building and
+        it is the only instance of chinoiserie in Mamluk architecture.
+    </string>
+    <string name="sultan_Hassan_Mosque_work_hours"> Open from 9.00 am to 5.00 pm everyday</string>
+</resources>
